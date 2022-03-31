@@ -10,8 +10,11 @@ This repository is used for MSDM5005 homework 3 of group SIMPLE.
 .
 ├── README.md
 ├── code
-│   └── data_processing.ipynb
+│   ├── data_processing.ipynb
+│   ├── geckodriver.log
+│   └── properties_scrape.ipynb
 └── data
-    └── data_hk_station.csv
+    ├── data_hk_station.csv
+    └── properties_midland.csv
 ```
 
