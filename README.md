@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is used for MSDM5005 homework 3 of group SIMPLE.
+This repository is used for MSDM5005 homework 3 of team 2, SIMPLE.
 
 
 
